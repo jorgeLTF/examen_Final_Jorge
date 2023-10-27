@@ -13,7 +13,7 @@
         <p><h2>Login:</h2> <input type="text" name="admin" size="11" value="" class="limpiar"></p>        
         <p><h2>Clave:</h2><input type="password" name="123" size="11" value="" ></p>      
         <input type="submit" name="accion" value="Ingresar" size="5" class="boton">
-        <h1>agregamos un sms</h1>
+        
        </div> 
     </form>  
   </body>
